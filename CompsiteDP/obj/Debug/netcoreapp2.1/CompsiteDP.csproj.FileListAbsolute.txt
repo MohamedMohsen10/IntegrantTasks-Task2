@@ -1,0 +1,11 @@
+C:\Users\mohamed.mohsen\source\repos\CompsiteDP\bin\Debug\netcoreapp2.1\CompsiteDP.deps.json
+C:\Users\mohamed.mohsen\source\repos\CompsiteDP\bin\Debug\netcoreapp2.1\CompsiteDP.runtimeconfig.json
+C:\Users\mohamed.mohsen\source\repos\CompsiteDP\bin\Debug\netcoreapp2.1\CompsiteDP.runtimeconfig.dev.json
+C:\Users\mohamed.mohsen\source\repos\CompsiteDP\bin\Debug\netcoreapp2.1\CompsiteDP.dll
+C:\Users\mohamed.mohsen\source\repos\CompsiteDP\bin\Debug\netcoreapp2.1\CompsiteDP.pdb
+C:\Users\mohamed.mohsen\source\repos\CompsiteDP\obj\Debug\netcoreapp2.1\CompsiteDP.csprojAssemblyReference.cache
+C:\Users\mohamed.mohsen\source\repos\CompsiteDP\obj\Debug\netcoreapp2.1\CompsiteDP.csproj.CoreCompileInputs.cache
+C:\Users\mohamed.mohsen\source\repos\CompsiteDP\obj\Debug\netcoreapp2.1\CompsiteDP.AssemblyInfoInputs.cache
+C:\Users\mohamed.mohsen\source\repos\CompsiteDP\obj\Debug\netcoreapp2.1\CompsiteDP.AssemblyInfo.cs
+C:\Users\mohamed.mohsen\source\repos\CompsiteDP\obj\Debug\netcoreapp2.1\CompsiteDP.dll
+C:\Users\mohamed.mohsen\source\repos\CompsiteDP\obj\Debug\netcoreapp2.1\CompsiteDP.pdb
